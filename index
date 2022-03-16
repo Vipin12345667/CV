@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Vipin's Personal Site</title>
+  </head>
+  <body>
+    <hr>
+    <table cellspacing="20">
+      <tr>
+        <td><img src="https://imgk.timesnownews.com/story/Virat_Kohli_T20_PTI.jpg?tr=w-600,h-450,fo-auto" alt="Vipin profile Picture"></td>
+        <td><h1>Virat Kohli</h1>
+        <p>Indian <<strong>Cricketer</strong></p>
+        <p>Wold class Batsman</p></td>
+      </tr>
+    </table>
+    <hr>
+    <h3>skills</h3>
+    <table cellspacing="20">
+    <tr>
+    <td>ios development</td>
+    <td>@@@@</td>
+    </tr>
+    </table>
+  <hr>
+  <h2>Introduction</h2>
+  <ul>
+  <li>Spause-Anushka</li>
+  <li>Daughter-Vamika</li>
+  </ul>
+  <hr>
+  <h3>Achivements</h3>
+  <ol>
+  <li><a href="#">Most centuris while chase</a></li>
+  <li><a href="#">Cricketer of decade</a></li>
+  <li><a href="#">Most successful test captain</a></li>
+  </ol>
+<a href="Hobbies.html">Hobbies</a>
+<a href="Achievement.html">Achievement</a>
+<hr>
+<h4>work experience</h4>
+<hr>
+<table border="1">
+  <thead>
+    <tr>
+      <td>date</td>
+      <td>work</td>
+    </tr>
+  </thead>
+  <tr>
+    <td>2010-2012</td>
+    <td>web developer</td>
+  </tr>
+  <tr>
+<td>2012-2014</td>
+<td>app developer</td>
+  </tr>
+</table>
+     </body>
+</html>
